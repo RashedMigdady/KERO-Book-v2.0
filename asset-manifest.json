@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/KERO-Book-v2.0/static/css/main.fb6625ac.chunk.css",
+    "main.js": "/KERO-Book-v2.0/static/js/main.026b301d.chunk.js",
+    "main.js.map": "/KERO-Book-v2.0/static/js/main.026b301d.chunk.js.map",
+    "runtime-main.js": "/KERO-Book-v2.0/static/js/runtime-main.fce6f5de.js",
+    "runtime-main.js.map": "/KERO-Book-v2.0/static/js/runtime-main.fce6f5de.js.map",
+    "static/css/2.a98291d0.chunk.css": "/KERO-Book-v2.0/static/css/2.a98291d0.chunk.css",
+    "static/js/2.858d1f3f.chunk.js": "/KERO-Book-v2.0/static/js/2.858d1f3f.chunk.js",
+    "static/js/2.858d1f3f.chunk.js.map": "/KERO-Book-v2.0/static/js/2.858d1f3f.chunk.js.map",
+    "index.html": "/KERO-Book-v2.0/index.html",
+    "static/css/2.a98291d0.chunk.css.map": "/KERO-Book-v2.0/static/css/2.a98291d0.chunk.css.map",
+    "static/css/main.fb6625ac.chunk.css.map": "/KERO-Book-v2.0/static/css/main.fb6625ac.chunk.css.map",
+    "static/js/2.858d1f3f.chunk.js.LICENSE.txt": "/KERO-Book-v2.0/static/js/2.858d1f3f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fce6f5de.js",
+    "static/css/2.a98291d0.chunk.css",
+    "static/js/2.858d1f3f.chunk.js",
+    "static/css/main.fb6625ac.chunk.css",
+    "static/js/main.026b301d.chunk.js"
+  ]
+}
